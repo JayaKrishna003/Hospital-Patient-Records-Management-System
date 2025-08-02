@@ -69,6 +69,7 @@ A simple yet fully functional **Hospital Management System** built using **Micro
 Private Sub Form_Load()
     MsgBox "Welcome to the Hospital Management System!"
 End Sub
+```
 ---
 
 ## 💡 Future Enhancements
