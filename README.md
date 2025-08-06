@@ -1,4 +1,4 @@
-# 💉 Hospital Management System - Microsoft Access Project
+# 💉 Hospital Management System - Microsoft Access Project(VBA)
 
 A simple yet fully functional **Hospital Management System** built using **Microsoft Access**, featuring relational database design, user-friendly forms, VBA automation, queries, and reports. This project showcases end-to-end patient management, doctor assignment, billing, and appointment scheduling.
 
