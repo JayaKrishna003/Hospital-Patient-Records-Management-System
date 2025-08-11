@@ -86,7 +86,7 @@ End Sub
 
 I'm always open to feedback, mentorship, and collaboration opportunities!
 
-- 🔗 [LinkedIn – K Jaya Krishna](www.linkedin.com/in/k-jaya-krishna-b675a2229)
+- 🔗 [LinkedIn – K Jaya Krishna] (www.linkedin.com/in/k-jaya-krishna-b675a2229)
 - 💻 [GitHub – JayaKrishna003](https://github.com/JayaKrishna003)
 
 ---
